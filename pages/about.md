@@ -53,4 +53,4 @@ This project was created as the final for WRI241, a course in the Princeton Univ
 
 This project is currently on hiatus.
 
-{% include feature/image.html objectid="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Grand_Pacific_and_Ferris_Glacier.jpg/2560px-Grand_Pacific_and_Ferris_Glacier.jpg](https://airial.travel/attractions/canada/jasper/peyto-lake-lookout-6DHHJeOH)" caption="Peyto Lake and Bow Summit, Wikimedia (Jacob Frys)" width="25" %}
+{% include feature/image.html objectid="https://airial.travel/attractions/canada/jasper/peyto-lake-lookout-6DHHJeOH" caption="Peyto Lake and Bow Summit, Wikimedia (Jacob Frys)" width="25" %}
