@@ -47,10 +47,10 @@ Thorington not only constructs an 'objective' geography of the Canadian Rockies,
 
 ## Credits
 
-**Madison Anderson** is a student in the Art History department at Princeton University, studying artistic representations of science and innovation. Her current research projects are on *materia medica* in Nazi-controlled Europe and Jean Tinguely's [*Homage to New York*](https://www.moma.org/collection/works/81174). In 2024, she was contracted by the LA Museum of Natural History to develop a history of dioramas exhibition sponsored by the Getty Center's *PST: Art and Science Collide* program.
+**Madison Anderson** is a student in the Art History department at Princeton University, studying artistic representations of science and innovation. Her current research projects are on *materia medica* in Nazi-controlled Europe and Jean Tinguely's [*Homage to New York*](https://www.moma.org/collection/works/81174). In 2024, she was contracted by the LA Museum of Natural History to develop a history of dioramas exhibition for the Getty Center's *PST: Art and Science Collide* program.
 
 This project was created as the final for WRI241, a course in the Princeton University Writing Program in conjunction with Princeton University Special Collections. The format of this site is based on [CollectionBuilder](https://github.com/CollectionBuilder), an open source framework for creating digital collection and exhibition websites that was developed by the University of Idaho Library following the [Lib-Static](https://lib-static.github.io/) methodology.
 
 This project is currently on hiatus.
 
-{% include feature/image.html objectid="https://airial.travel/attractions/canada/jasper/peyto-lake-lookout-6DHHJeOH" caption="Peyto Lake and Bow Summit, Wikimedia (Jacob Frys)" width="25" %}
+{% include feature/image.html objectid="https://upload.wikimedia.org/wikipedia/commons/6/6a/Banff_National_Park_%28AB%2C_Canada%29%2C_Lake_Minnewanka_--_2022_--_2311.jpg" caption="Lake Minnewaka in what is now Banff National Park, Wikimedia 2022" width="25" %}
