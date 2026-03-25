@@ -10,7 +10,6 @@ credits: false
 {% include feature/jumbotron.html objectid="https://christophermartinphotography.com/wp-content/uploads/2011/08/rocks-and-ramparts-c2a9-2011-christopher-martin.jpg" %}
 
 {% include feature/nav-menu.html sections="The Glittering Mountains;Whose Mountains?;Credits" %}
-
 ## The Glittering Mountains
 
 <ins>James Monroe Thorington</ins> (1894-1989) was an opthamologist with a passion for mountaineering, serving as an active member in the American Alpine Club for over 60 years. Thorington spent 15 seasons in the Canadian Rocky Mountains, between modern-day Jasper and Banff National Parks. He was the first person to climb the Canadian Rockies in their entirety. Thorington frequently wrote about his travels: this project focuses on his book *The Glittering Mountains of Canada* (1925), which covers three of such expeditions:
@@ -26,7 +25,6 @@ Although some of the names of the features of the Candian Rockies have changed o
 
 
 {% include feature/image.html objectid="jmtgmc008" caption="J.M. Thorington (left) after a successful ascent" width="25" %}
-
 ## Whose Mountains?
 
 Despite the increasing efficiency of planes and cars in the 1920s, the Canadian Rocky Mountains were still vastly inaccessible to the public. They were largely considered to be "frontier": untampered land, nature in its purest form. As one of the earliest mountaineers to climb the Canadian Rockies, J.M. Thorington was one of the sole sources of "insider" information on this mountain range in the interwar period. He further sets himself apart by citing, consolidating, and commenting on the narratives of Canadian mountaineers before him in his writings. This dichotomy of access between the public and the mountaineer places Thorington in a position of great power, as he relays his perception of the mountains to the public in *The Glittering Mountains*.
@@ -44,7 +42,6 @@ One may wonder, then, if Thorington is truly attempting to convey the *mountains
 
 Thorington not only constructs an 'objective' geography of the Canadian Rockies, he too constructs the place of humans within his geography. Inviting his audience to take up mountaineering, Thorington seems to promote the Canadian Rockies as (in the words of De Certeau) both a *map*- a geography understood from outside a space- and a *tour*- a geography understood from within a space. In such a way, Thorington breaks down the remoteness of these mountains from all angles, letting the public into his vision of Northwest Canada as a destination for those willing to challenge themselves against the greatest of natural features.
 
-
 ## Credits
 
 **Madison Anderson** is a student in the Art History department at Princeton University, studying artistic representations of science and innovation. Her current research projects are on *materia medica* in Nazi-controlled Europe and Jean Tinguely's [*Homage to New York*](https://www.moma.org/collection/works/81174). In 2024, she was contracted by the LA Museum of Natural History to develop a history of dioramas exhibition for the Getty Center's *PST: Art and Science Collide* program.
@@ -53,4 +50,5 @@ This project was created as the final for WRI241, a course in the Princeton Univ
 
 This project is currently on hiatus.
 
-{% include feature/image.html objectid="https://upload.wikimedia.org/wikipedia/commons/6/6a/Banff_National_Park_%28AB%2C_Canada%29%2C_Lake_Minnewanka_--_2022_--_2311.jpg" caption="Lake Minnewaka in what is now Banff National Park, Wikimedia 2022" width="25" %}
+
+{% include feature/image.html objectid="https://upload.wikimedia.org/wikipedia/commons/6/6a/Banff_National_Park_%28AB%2C_Canada%29%2C_Lake_Minnewanka_--_2022_--_2311.jpg" caption="Lake Minnewaka in what is now Banff National Park, Wikimedia 2022" width="50" %}
